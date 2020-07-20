@@ -20,8 +20,8 @@ GUI sections, feature selection, similarity measurement And Relevance Feedback.
 Download Dataset :
 
 # Description
-rename.m : Rename the datasets to search more efficiently.
-text.m : Make a text file of images name.
-scores.m : Save the scores of all images in a matrix.
+rename.m : Rename the datasets to search more efficiently. \n
+text.m : Make a text file of images name. \n
+scores.m : Save the scores of all images in a matrix. \n
 
 
