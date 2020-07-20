@@ -10,18 +10,21 @@ Finally, the most similar images are returned to the user. To do the CBIR projec
 GUI sections, feature selection, similarity measurement And Relevance Feedback.
 
 - GUI :
-  - cbirrf.m
-  - cbirrf.fig
+  - [cbirrf.m](https://github.com/hamid9095/CBIR-in-LTLL-Dataset-MATLAB/blob/master/cbirrf.m)
+  - [cbirrf.fig](https://github.com/hamid9095/CBIR-in-LTLL-Dataset-MATLAB/blob/master/cbirrf.fig)
 - Feature Selection
 - Similarity:
-  cosine similarity
-- Relevance
+  - [cosine similarity](https://github.com/hamid9095/CBIR-in-LTLL-Dataset-MATLAB/blob/master/getCosineSimilarity.m)
+- Relevance Feedback :
+  - [RelFeedback.m](https://github.com/hamid9095/CBIR-in-LTLL-Dataset-MATLAB/blob/master/RelFeedback.m) : used function for relevance feedback
+  - [RelevanceFeedback.m](https://github.com/hamid9095/CBIR-in-LTLL-Dataset-MATLAB/blob/master/RelevanceFeedback.m) : another function for relevance feedback
 
-Download Dataset :
+### Download Dataset :
+* [LTLL Dataset](https://drive.google.com/file/d/1q2jQIoxit3ujn5-HG79cU6oWHSxXwTcQ/view?usp=sharing) - Old and New Famous Places Images
 
 ## Description
-- rename.m : Rename the datasets to search more efficiently.
-- text.m : Make a text file of images name.
-- scores.m : Save the scores of all images in a matrix.
+* [rename.m](https://github.com/hamid9095/CBIR-in-LTLL-Dataset-MATLAB/blob/master/rename.m) : Rename the datasets to search more efficiently.
+* [text.m](https://github.com/hamid9095/CBIR-in-LTLL-Dataset-MATLAB/blob/master/text.m) : Make a text file of images name.
+* [scores.m](https://github.com/hamid9095/CBIR-in-LTLL-Dataset-MATLAB/blob/master/scores.m) : Save the scores of all images in a matrix.
 
 
