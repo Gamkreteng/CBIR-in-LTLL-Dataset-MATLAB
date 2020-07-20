@@ -16,3 +16,12 @@ GUI sections, feature selection, similarity measurement And Relevance Feedback.
 3-Similarity:
   cosine similarity
 4-Relevance
+
+Download Dataset :
+
+# Description
+rename.m : Rename the datasets to search more efficiently.
+text.m : Make a text file of images name.
+scores.m : Save the scores of all images in a matrix.
+
+
